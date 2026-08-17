@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Will's Reading</title>
+    <link>https://ganao.github.io/podcast-feed</link>
+    <description>A personalized AI-generated podcast.</description>
+    <language>zh</language>
+    <atom:link href="https://ganao.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://ganao.github.io/podcast-feed/cover-art.png</url>
+      <title>Will's Reading</title>
+      <link>https://ganao.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://ganao.github.io/podcast-feed/cover-art.png"/>
+
+    <!-- Podcast player metadata -->
+    <itunes:author>Will's Reading</itunes:author>
+    <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    
+    <item>
+      <title>Will's Reading — 软件设计的哲学·工作代码是不够的</title>
+      <description>战略编程 vs 战术编程：为什么代码能跑了项目还是会失控</description>
+      <pubDate>Mon, 17 Aug 2026 15:19:26 GMT</pubDate>
+      <enclosure url="https://ganao.github.io/podcast-feed/episodes/2026-08-17-231556.mp3"
+                 length="7213869"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://ganao.github.io/podcast-feed/episodes/2026-08-17-231556.mp3</guid>
+      <itunes:duration>9:32</itunes:duration>
+      <itunes:summary>战略编程 vs 战术编程：为什么代码能跑了项目还是会失控</itunes:summary>
+    </item>
+    
+  </channel>
+</rss>
