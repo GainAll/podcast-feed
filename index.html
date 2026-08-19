@@ -195,7 +195,7 @@
       <a class="btn" href="#view">我想说的一个观点</a>
     </div>
     <div class="sub-url">
-      <span>RSS</span><code id="feedURL">https://gainall.github.io/podcast-feed/feed.xml</code>
+      <span>RSS</span><code id="feedURL">https://gainall.github.io/podcast-feed/feed-apsd.xml</code>
     </div>
   </div>
   <div class="cover">
@@ -294,7 +294,7 @@
       <h2>节目单</h2>
       <div class="meta">《软件设计的哲学》全书 22 章 · 单口精读 · 点击即听</div>
     </div>
-    <audio id="player" controls preload="none" src="episodes/apsd-ch01.mp3"></audio>
+    <audio id="player" controls preload="none" src="episodes/apsd/apsd-ch01.mp3"></audio>
     <div class="eps-grid" id="epsGrid"></div>
   </div>
 </section>
@@ -309,7 +309,7 @@
 <div id="toast">订阅链接已复制，去播客 App 里添加吧</div>
 
 <script>
-  var FEED = "https://gainall.github.io/podcast-feed/feed.xml";
+  var FEED = "https://gainall.github.io/podcast-feed/feed-apsd.xml";
   var EPS = [
     ["Introduction","6:31"],["The Nature of Complexity","8:04"],
     ["Working Code Isn't Enough","7:30"],["Modules Should Be Deep","8:29"],
@@ -339,7 +339,7 @@
       if (current) current.classList.remove("active");
       el.classList.add("active");
       current = el;
-      player.src = "episodes/apsd-ch" + pad + ".mp3";
+      player.src = "episodes/apsd/apsd-ch" + pad + ".mp3";
       player.play();
     };
     grid.appendChild(el);

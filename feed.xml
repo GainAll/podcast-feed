@@ -6,6 +6,7 @@
     <title>Will's Reading</title>
     <link>https://gainall.github.io/podcast-feed</link>
     <description>把好书读给你听。第一个系列：《A Philosophy of Software Design》（软件设计的哲学，John Ousterhout 著）全书 22 章单口精读，每章一期，标题与原书一致。</description>
+    <itunes:new-feed-url>https://gainall.github.io/podcast-feed/feed-apsd.xml</itunes:new-feed-url>
     <language>zh-cn</language>
     <atom:link href="https://gainall.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     

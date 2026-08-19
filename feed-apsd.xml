@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>软件设计的哲学·精读</title>
+    <link>https://gainall.github.io/podcast-feed</link>
+    <description>John Ousterhout《A Philosophy of Software Design》逐章精读：复杂度、深模块、注释与命名。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://gainall.github.io/podcast-feed/feed-apsd.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://gainall.github.io/podcast-feed/covers/apsd.jpg</url>
+      <title>软件设计的哲学·精读</title>
+      <link>https://gainall.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://gainall.github.io/podcast-feed/covers/apsd.jpg"/>
+
+    <!-- Podcast player metadata -->
+    <itunes:author>软件设计的哲学·精读</itunes:author>
+    <itunes:summary>John Ousterhout《A Philosophy of Software Design》逐章精读：复杂度、深模块、注释与命名。</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>serial</itunes:type>
+
+    
+    <item>
+      <title>第22章 Conclusion</title>
+      <description>全书结论：复杂度是唯一的主题，投资心态是唯一的解法，系列完结。</description>
+      <pubDate>Tue, 18 Aug 2026 11:48:00 +0800</pubDate>
+      
+      <itunes:episode>22</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch22.mp3"
+                 length="4018989"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch22.mp3</guid>
+      <itunes:duration>4:11</itunes:duration>
+      <itunes:summary>全书结论：复杂度是唯一的主题，投资心态是唯一的解法，系列完结。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第21章 Decide What Matters</title>
+      <description>判断什么重要：全书元原则——重要的亮出来，不重要的藏进去。</description>
+      <pubDate>Tue, 18 Aug 2026 11:40:00 +0800</pubDate>
+      
+      <itunes:episode>21</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch21.mp3"
+                 length="5675949"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch21.mp3</guid>
+      <itunes:duration>5:54</itunes:duration>
+      <itunes:summary>判断什么重要：全书元原则——重要的亮出来，不重要的藏进去。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第20章 Designing for Performance</title>
+      <description>为性能设计：测量先行，围绕关键路径重设计，简单与快不冲突。</description>
+      <pubDate>Tue, 18 Aug 2026 11:32:00 +0800</pubDate>
+      
+      <itunes:episode>20</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch20.mp3"
+                 length="8541741"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch20.mp3</guid>
+      <itunes:duration>8:53</itunes:duration>
+      <itunes:summary>为性能设计：测量先行，围绕关键路径重设计，简单与快不冲突。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第19章 Software Trends</title>
+      <description>软件趋势：用复杂度这把尺子量面向对象、敏捷、单元测试、TDD 与设计模式。</description>
+      <pubDate>Tue, 18 Aug 2026 11:24:00 +0800</pubDate>
+      
+      <itunes:episode>19</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch19.mp3"
+                 length="8075565"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch19.mp3</guid>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:summary>软件趋势：用复杂度这把尺子量面向对象、敏捷、单元测试、TDD 与设计模式。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第18章 Code Should be Obvious</title>
+      <description>代码应一目了然：为易读设计，不为易写设计。</description>
+      <pubDate>Tue, 18 Aug 2026 11:16:00 +0800</pubDate>
+      
+      <itunes:episode>18</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch18.mp3"
+                 length="6106029"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch18.mp3</guid>
+      <itunes:duration>6:21</itunes:duration>
+      <itunes:summary>代码应一目了然：为易读设计，不为易写设计。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第17章 Consistency</title>
+      <description>一致性：认知杠杆，相似的事用相似方式做，不相似的事长得不一样。</description>
+      <pubDate>Tue, 18 Aug 2026 11:08:00 +0800</pubDate>
+      
+      <itunes:episode>17</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch17.mp3"
+                 length="5710125"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch17.mp3</guid>
+      <itunes:duration>5:56</itunes:duration>
+      <itunes:summary>一致性：认知杠杆，相似的事用相似方式做，不相似的事长得不一样。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第16章 Modifying Existing Code</title>
+      <description>修改现有代码：像从一开始就带着这次改动设计的那样去改，注释三维护规则。</description>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 +0800</pubDate>
+      
+      <itunes:episode>16</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch16.mp3"
+                 length="7036077"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch16.mp3</guid>
+      <itunes:duration>7:19</itunes:duration>
+      <itunes:summary>修改现有代码：像从一开始就带着这次改动设计的那样去改，注释三维护规则。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第15章 Write The Comments First</title>
+      <description>先写注释：把注释当设计工具，复杂度的矿井金丝雀。</description>
+      <pubDate>Tue, 18 Aug 2026 10:52:00 +0800</pubDate>
+      
+      <itunes:episode>15</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch15.mp3"
+                 length="6021933"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch15.mp3</guid>
+      <itunes:duration>6:16</itunes:duration>
+      <itunes:summary>先写注释：把注释当设计工具，复杂度的矿井金丝雀。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第14章 Choosing Names</title>
+      <description>选名字：精确与一致，一个坏名字引发的六个月 Bug 追踪。</description>
+      <pubDate>Tue, 18 Aug 2026 10:44:00 +0800</pubDate>
+      
+      <itunes:episode>14</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch14.mp3"
+                 length="8834733"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch14.mp3</guid>
+      <itunes:duration>9:12</itunes:duration>
+      <itunes:summary>选名字：精确与一致，一个坏名字引发的六个月 Bug 追踪。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第13章 Comments Should Describe Things that Aren't Obvious from the Code</title>
+      <description>注释该写代码里看不出来的东西：往低补精确，往高给直觉。</description>
+      <pubDate>Tue, 18 Aug 2026 10:36:00 +0800</pubDate>
+      
+      <itunes:episode>13</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch13.mp3"
+                 length="10663725"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch13.mp3</guid>
+      <itunes:duration>11:06</itunes:duration>
+      <itunes:summary>注释该写代码里看不出来的东西：往低补精确，往高给直觉。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第12章 Why Write Comments? The Four Excuses</title>
+      <description>为什么要写注释：拆解拒绝写注释的四个借口，注释是抽象的根基。</description>
+      <pubDate>Tue, 18 Aug 2026 10:28:00 +0800</pubDate>
+      
+      <itunes:episode>12</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch12.mp3"
+                 length="6905901"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch12.mp3</guid>
+      <itunes:duration>7:11</itunes:duration>
+      <itunes:summary>为什么要写注释：拆解拒绝写注释的四个借口，注释是抽象的根基。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第11章 Design it Twice</title>
+      <description>设计两次：每个重大决策多方案比较，聪明人的第一个想法几乎不可能是最好的。</description>
+      <pubDate>Tue, 18 Aug 2026 10:20:00 +0800</pubDate>
+      
+      <itunes:episode>11</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch11.mp3"
+                 length="5007789"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch11.mp3</guid>
+      <itunes:duration>5:12</itunes:duration>
+      <itunes:summary>设计两次：每个重大决策多方案比较，聪明人的第一个想法几乎不可能是最好的。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第10章 Define Errors Out Of Existence</title>
+      <description>把错误定义到不存在：异常处理四板斧——定义掉、掩蔽、聚合、崩溃。</description>
+      <pubDate>Tue, 18 Aug 2026 10:12:00 +0800</pubDate>
+      
+      <itunes:episode>10</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch10.mp3"
+                 length="9737133"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch10.mp3</guid>
+      <itunes:duration>10:08</itunes:duration>
+      <itunes:summary>把错误定义到不存在：异常处理四板斧——定义掉、掩蔽、聚合、崩溃。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第9章 Better Together Or Better Apart?</title>
+      <description>放在一起好还是分开好：分与合的成本账，信息共享、接口简化与重复消除。</description>
+      <pubDate>Tue, 18 Aug 2026 10:04:00 +0800</pubDate>
+      
+      <itunes:episode>9</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch09.mp3"
+                 length="8152749"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch09.mp3</guid>
+      <itunes:duration>8:29</itunes:duration>
+      <itunes:summary>放在一起好还是分开好：分与合的成本账，信息共享、接口简化与重复消除。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第8章 Pull Complexity Downwards</title>
+      <description>把复杂度往下拉：让模块的用户日子好过，宁可自己多受累。</description>
+      <pubDate>Tue, 18 Aug 2026 09:56:00 +0800</pubDate>
+      
+      <itunes:episode>8</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch08.mp3"
+                 length="5022381"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch08.mp3</guid>
+      <itunes:duration>5:13</itunes:duration>
+      <itunes:summary>把复杂度往下拉：让模块的用户日子好过，宁可自己多受累。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第7章 Different Layer, Different Abstraction</title>
+      <description>不同层，不同抽象：逐层传递相同抽象是红旗。</description>
+      <pubDate>Tue, 18 Aug 2026 09:48:00 +0800</pubDate>
+      
+      <itunes:episode>7</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch07.mp3"
+                 length="8073261"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch07.mp3</guid>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:summary>不同层，不同抽象：逐层传递相同抽象是红旗。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第6章 General-Purpose Modules are Deeper</title>
+      <description>通用模块更深： somewhat general-purpose，把模块设计得适度通用。</description>
+      <pubDate>Tue, 18 Aug 2026 09:40:00 +0800</pubDate>
+      
+      <itunes:episode>6</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch06.mp3"
+                 length="8363949"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch06.mp3</guid>
+      <itunes:duration>8:42</itunes:duration>
+      <itunes:summary>通用模块更深： somewhat general-purpose，把模块设计得适度通用。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第5章 Information Hiding (and Leakage)</title>
+      <description>信息隐藏（与泄漏）：尽可能深地隐藏实现细节，别让信息从接口溜走。</description>
+      <pubDate>Tue, 18 Aug 2026 09:32:00 +0800</pubDate>
+      
+      <itunes:episode>5</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch05.mp3"
+                 length="8469933"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch05.mp3</guid>
+      <itunes:duration>8:49</itunes:duration>
+      <itunes:summary>信息隐藏（与泄漏）：尽可能深地隐藏实现细节，别让信息从接口溜走。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第4章 Modules Should Be Deep</title>
+      <description>模块应当深：深模块与浅模块，小接口大功能才是好设计。</description>
+      <pubDate>Tue, 18 Aug 2026 09:24:00 +0800</pubDate>
+      
+      <itunes:episode>4</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch04.mp3"
+                 length="8149677"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch04.mp3</guid>
+      <itunes:duration>8:29</itunes:duration>
+      <itunes:summary>模块应当深：深模块与浅模块，小接口大功能才是好设计。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第3章 Working Code Isn't Enough</title>
+      <description>工作代码是不够的：战术编程与战略编程，投资心态如何改变系统的长期命运。</description>
+      <pubDate>Tue, 18 Aug 2026 09:16:00 +0800</pubDate>
+      
+      <itunes:episode>3</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch03.mp3"
+                 length="7213869"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch03.mp3</guid>
+      <itunes:duration>7:30</itunes:duration>
+      <itunes:summary>工作代码是不够的：战术编程与战略编程，投资心态如何改变系统的长期命运。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第2章 The Nature of Complexity</title>
+      <description>复杂度的本质：定义、三大症状（改动放大、认知负荷、未知的未知）与两大根因（依赖、晦涩）。</description>
+      <pubDate>Tue, 18 Aug 2026 09:08:00 +0800</pubDate>
+      
+      <itunes:episode>2</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch02.mp3"
+                 length="7748397"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch02.mp3</guid>
+      <itunes:duration>8:04</itunes:duration>
+      <itunes:summary>复杂度的本质：定义、三大症状（改动放大、认知负荷、未知的未知）与两大根因（依赖、晦涩）。</itunes:summary>
+    </item>
+    
+    <item>
+      <title>第1章 Introduction</title>
+      <description>开篇：软件设计的哲学为什么是一本值得一读的书，复杂度为什么是软件设计要对付的头号敌人。</description>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 +0800</pubDate>
+      
+      <itunes:episode>1</itunes:episode>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch01.mp3"
+                 length="6264621"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/apsd/apsd-ch01.mp3</guid>
+      <itunes:duration>6:31</itunes:duration>
+      <itunes:summary>开篇：软件设计的哲学为什么是一本值得一读的书，复杂度为什么是软件设计要对付的头号敌人。</itunes:summary>
+    </item>
+    
+  </channel>
+</rss>
