@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂谈</title>
+    <link>https://gainall.github.io/podcast-feed</link>
+    <description>各种各样想听的音频：课程、文章、主题，随听随做。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://gainall.github.io/podcast-feed/feed-talks.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://gainall.github.io/podcast-feed/covers/talks.jpg</url>
+      <title>杂谈</title>
+      <link>https://gainall.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://gainall.github.io/podcast-feed/covers/talks.jpg"/>
+
+    <!-- Podcast player metadata -->
+    <itunes:author>杂谈</itunes:author>
+    <itunes:summary>各种各样想听的音频：课程、文章、主题，随听随做。</itunes:summary>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+
+    
+    <item>
+      <title>欢迎来到未来·蒋炎岩《生成式软件工程》第一讲</title>
+      <description>南大蒋炎岩2026秋季新课：当AI能写代码，CS学生还剩什么能力？从二维码Excel失败案例到Intent-Spec-Impl框架。</description>
+      <pubDate>Mon, 14 Sep 2026 08:46:37 GMT</pubDate>
+      
+      <enclosure url="https://gainall.github.io/podcast-feed/episodes/talks/2026-09-14-164344.mp3"
+                 length="8518317"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://gainall.github.io/podcast-feed/episodes/talks/2026-09-14-164344.mp3</guid>
+      <itunes:duration>8:52</itunes:duration>
+      <itunes:summary>南大蒋炎岩2026秋季新课：当AI能写代码，CS学生还剩什么能力？从二维码Excel失败案例到Intent-Spec-Impl框架。</itunes:summary>
+    </item>
+    
+  </channel>
+</rss>
